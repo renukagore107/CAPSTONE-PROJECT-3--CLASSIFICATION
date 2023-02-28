@@ -56,4 +56,4 @@ Imbalanced Class Handling techniques such as Undersampling and SMOTE were done a
 
 It is observed that SMOTE worked considerably better than Random Undersampling, it may have led to loss of information. Decision Tree Model is overfitting. It is working really great on train data and worse on test data.
 
-# XGBoost Algorithm worked in the best way possible with such imbalanced data with outliers, with F1 Score of 0.71 on the test set USING rus and 0.86 using SMOTE
+XGBoost Algorithm worked in the best way possible with such imbalanced data with outliers, with F1 Score of 0.71 on the test set USING rus and 0.86 using SMOTE
